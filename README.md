@@ -60,7 +60,7 @@ Graduate Student, Geodata Science for Professionals
 
 ---
 
-## 📌 Note
+## Note
 
 Some files in this repository may be designed for execution on HPC systems with SLURM schedulers. Be sure to configure your cluster profile before running advanced scripts.
 
